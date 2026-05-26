@@ -1,0 +1,5 @@
+type: feat
+subject: update
+
+# type: feat | fix | docs | style | refactor | test | chore
+# subject: 简短描述，不超过50字符
