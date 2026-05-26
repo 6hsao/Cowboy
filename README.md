@@ -69,13 +69,7 @@ Assets/
 | `ChangeBoolValue.cs` | 布尔值切换 |
 | `ActivateDeactivateRenderers.cs` | 渲染器开关 |
 
-## Git 提交规范
 
-使用 feat 提交时，自动格式化为 `feat: update`
-
-```bash
-git commit -m "feat: 任意描述"  # 将自动变为 "feat: update"
-```
 
 ## 版本信息
 
